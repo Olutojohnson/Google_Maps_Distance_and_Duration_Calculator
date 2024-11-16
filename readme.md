@@ -48,8 +48,11 @@ Given the input coordinates:
 The script calculates the driving distance and duration to each location from the origin (-2.01234699405899, 29.377851313693).
 
 **Output Example**:
+
 coordinates	duration (Hours)	distance (Km)
+
 (-2.01234699405899, 29.377851313693)	0.0	0.0
+
 (-1.66881597155677, 30.5838648247755)	1.5	78.3
 
 ## Notes
